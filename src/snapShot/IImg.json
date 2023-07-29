@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "img": "images/carens.jpg",
+        "type": "kia"
+    },
+    {
+        "id": 2,
+        "img": "images/kia-ev6.jpg",
+        "type": "kia-ev6"
+    },
+    {
+        "id": 3,
+        "img": "images/kia-sportage.png",
+        "type": "kia"
+    },
+    {
+        "id": 5,
+        "img": "images/seltos.webp",
+        "type": "kia"
+    },
+    {
+        "id": 6,
+        "img": "images/hundadi-city.jpg",
+        "type": "honda"
+    },
+    {
+        "id": 6,
+        "img": "images/Hyundai-IONIQ-5.webp",
+        "type": "hundai"
+    },
+    {
+        "id": 6,
+        "img": "images/hundai-exter.jpg",
+        "type": "hundai"
+    },
+    {
+        "id": 6,
+        "img": "images/tata-curvv.webp",
+        "type": "tata"
+    },
+    {
+        "id": 6,
+        "img": "images/tata-nexon.jpg",
+        "type": "tata"
+    },
+    {
+        "id": 6,
+        "img": "images/tata-safari.webp",
+        "type": "tata"
+    },
+    {
+        "id": 6,
+        "img": "images/tata-tigo.webp",
+        "type": "tata"
+    },
+    {
+        "id": 6,
+        "img": "images/Honda_Amaza.jpg",
+        "type": "honda"
+    }
+]

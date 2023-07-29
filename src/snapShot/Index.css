@@ -1,0 +1,45 @@
+.head{
+    height: 10vh;
+    font-family: 'Courier New', Courier, monospace;
+}
+.each-img{
+    width: 300px;
+    height: 204px;
+    overflow: hidden;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.container{
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 40px;
+    row-gap: 40px;
+    justify-content:center;
+    align-content: center;
+}
+img{
+    object-fit:cover;
+    width: 400px;
+    height: 200px;
+    transition: 1s;
+    cursor: pointer;
+}
+
+img:hover{
+    scale: 1.6;
+    transition: 1s;
+}
+.input-form{
+    width: 50% !important;
+    margin: auto!important;
+    font-size: 1.1rem  !important;
+}
+.input-form:focus{
+    box-shadow: none !important;
+    outline: none !important;
+}
+.active{
+    background-color: yellow !important;
+    color: black !important;
+}

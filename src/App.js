@@ -1,5 +1,5 @@
 import React from "react";
-import Index from './BMI/Index';
+import Index from './snapShot/Index';
 
 function App() {
 
